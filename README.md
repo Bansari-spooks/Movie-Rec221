@@ -11,15 +11,13 @@ This project uses TF-IDF vectorization and cosine similarity to recommend movies
 pip install pandas scikit-learn difflib numpy
 ```
 
-3. **Place your `movies.csv` file in the same directory as the script.**
-
-4. **Run the script:**
+3. **Run the script:**
 
 ```bash
 python bansarinimbalkar_project_2.py
 ```
 
-5. **Follow the on-screen input to enter a movie name and get recommendations.**
+4. **Follow the on-screen input to enter a movie name and get recommendations.**
 
 ---
 
